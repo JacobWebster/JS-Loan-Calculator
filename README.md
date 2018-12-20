@@ -1,4 +1,4 @@
-# Loan-Calculator
+# Javascript ES6 Loan-Calculator 
 Loan calculator created using Javascript es6
 [Click here](https://jacobwebster.github.io/Loan-Calculator/) to see it in action.
 
